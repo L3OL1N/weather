@@ -6,6 +6,7 @@ body {
 }
 body h2, body h3 {
   height: 1.5em;
+  text-transform: capitalize;
 }
 body img {
   display: none;
