@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+  width: 80vw;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+}
+body #load {
+  display: none;
+}
+body main {
+  display: none;
+}
+body h2, body h3 {
+  height: 1.5em;
+  text-transform: capitalize;
+}
+body h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body h3 #icon {
+  display: inline;
+  height: 90%;
+  margin-left: 10px;
+}
+body #gif {
+  margin: 0 auto;
+}/*# sourceMappingURL=index.css.map */
